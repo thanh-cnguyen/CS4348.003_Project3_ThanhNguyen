@@ -7,3 +7,7 @@
 /dataSources/
 ../out/
 .xml
+/intellij-javadocs-4.0.1.xml
+/misc.xml
+/modules.xml
+/inspectionProfiles/Project_Default.xml
